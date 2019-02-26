@@ -1,0 +1,21 @@
+.Titre {
+    font-family :"Times New Roman";
+    font-size: 80px;
+    font-weight : bold;
+    text-decoration : underline;
+    font-style : italic;
+    color:red;
+    text-align : center;
+}
+body {
+background-repeat: no-repeat;
+background-image: url(Fortnite.jpg);
+background-color: 
+}
+.Intro {
+    font-family :"Times New Roman";
+    font-size: 30px;
+    text-decoration : underline;
+    color:blue;
+    padding-top: 210px;
+}
