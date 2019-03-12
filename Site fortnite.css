@@ -19,3 +19,19 @@ background-color:
     color:blue;
     padding-top: 210px;
 }
+.Ex {
+    font-family :"Times New Roman";
+    font-size: 15px;
+    color:black;
+}
+.modes {
+    font-family :"Times New Roman";
+    font-size: 30px;
+    text-decoration : underline;
+    color:blue;
+}
+.modesEX {
+    font-family :"Times New Roman";
+    font-size: 15px;
+    color:black;
+}
