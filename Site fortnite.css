@@ -1,29 +1,17 @@
-.Titre {
-    font-family :"Times New Roman";
-    font-size: 80px;
-    font-weight : bold;
-    text-decoration : underline;
-    font-style : italic;
-    color:black;
-    text-align : center;
-}
-body {
-background-repeat: no-repeat;
-background-image: url(Fortnite.jpg);
-background-color: 
-}
 #Intro {
     font-family :"Times New Roman";
     font-size: 30px;
     text-decoration : underline;
     color:green;
-    padding-top: 210px;
     font-weight : bold;
+    padding-top: 270px;
+
 }
 #Ex {
     font-family :"Times New Roman";
     font-size: 15px;
-    color:black;
+    color:darkred;
+    font-weight : bold;
 }
 #Modes {
     font-family :"Times New Roman";
@@ -36,22 +24,42 @@ background-color:
     font-family :"Times New Roman";
     font-size: 20px;
     text-decoration : underline;
-    color:blue;
+    color:yellow;
 }
 
 #modestemp {
     font-family :"Times New Roman";
     font-size: 15px;
-    color:black;
+    color:darkred;
+    font-weight : bold;
 }
 #mode2 {
     font-family :"Times New Roman";
     font-size: 20px;
     text-decoration : underline;
-    color:blue;
+    color:yellow;
 }
 #modesconst {
     font-family :"Times New Roman";
     font-size: 15px;
-    color:black;
+    color:darkred;
+    font-weight : bold;
 }
+body { 
+    margin:0;
+    padding:0;
+    background: url(fond.png) no-repeat center fixed; 
+    -webkit-background-size: cover;
+    background-size: cover; 
+  }
+#epicgames {
+    font-family :"Times New Roman";
+    font-size: 15px;
+    color:blue;
+}
+#Joueurs {
+    font-family :"Times New Roman";
+    font-size: 30px;
+    text-decoration : underline;
+    color:green;
+    font-weight : bold;
